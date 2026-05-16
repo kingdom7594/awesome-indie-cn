@@ -24,12 +24,16 @@
 
 ## 开源项目、工具
 1. 收录独立开发者出海技术栈和工具 indie-hacker-tools
-   
+
    https://github.com/weijunext/indie-hacker-tools
-   
-2. 中国独立开发者项目列表分享大家都在做什么 chinese-independent-developer 
-   
+
+2. 中国独立开发者项目列表分享大家都在做什么 chinese-independent-developer
+
    https://github.com/1c7/chinese-independent-developer
+
+3. 一人公司技能库中国版，针对中国市场（微信、小红书、抖音、B站、知乎等）深度优化的 15+ 原创 Agent 角色，一人创业者专属 agency-agents-cn
+
+   https://github.com/Aura-huang/agency-agents-cn
 
 ## 网站
 
