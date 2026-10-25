@@ -31,6 +31,12 @@
    
    https://github.com/1c7/chinese-independent-developer
 
+3. apkgo / apkgo cloud：一次上传，并发发布到国内主流安卓应用商店，并支持鸿蒙与 iOS（App Store）上架；开源 CLI 许可证为 PolyForm Noncommercial
+   
+   官网：https://apkgo.baici.tech
+   CLI：https://github.com/KevinGong2013/apkgo
+   上手：https://apkgo.baici.tech/onboarding
+
 ## 网站
 
 | 编号 | 💻 平台 | 类型 | 简介 | 详情 | 传送 |
